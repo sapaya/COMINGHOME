@@ -1,0 +1,1018 @@
+fileFormatVersion: 2
+guid: ef2eaded4bad88d4f856bc49bee9cef5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature_Lumberjack
+    100002: Bauch
+    100004: Brust
+    100006: CHAR_Lumberjack_Axt
+    100008: CHAR_Lumberjack_Body
+    100010: CHAR_Lumberjack_Lamp
+    100012: CONTROL
+    100014: Hand_L
+    100016: Hand_R
+    100018: Kopf
+    100020: //RootNode
+    100022: Oberarm_L
+    100024: Oberarm_R
+    100026: Oberschenkel_L
+    100028: Oberschenkel_R
+    100030: Unterarm_L
+    100032: Unterarm_R
+    100034: Unterschenkel_L
+    100036: Unterschenkel_R
+    100038: Help_Ofen
+    100040: Help_Waschbecken
+    100042: Help_Waschbeckenhebel
+    100044: Help_Waschbeckentisch
+    100046: CHAR_Lumberjack_Axt_Attack
+    400000: Armature_Lumberjack
+    400002: Bauch
+    400004: Brust
+    400006: CHAR_Lumberjack_Axt
+    400008: CHAR_Lumberjack_Body
+    400010: CHAR_Lumberjack_Lamp
+    400012: CONTROL
+    400014: Hand_L
+    400016: Hand_R
+    400018: Kopf
+    400020: //RootNode
+    400022: Oberarm_L
+    400024: Oberarm_R
+    400026: Oberschenkel_L
+    400028: Oberschenkel_R
+    400030: Unterarm_L
+    400032: Unterarm_R
+    400034: Unterschenkel_L
+    400036: Unterschenkel_R
+    400038: Help_Ofen
+    400040: Help_Waschbecken
+    400042: Help_Waschbeckenhebel
+    400044: Help_Waschbeckentisch
+    400046: CHAR_Lumberjack_Axt_Attack
+    2300000: Help_Ofen
+    2300002: Help_Waschbecken
+    2300004: Help_Waschbeckenhebel
+    2300006: Help_Waschbeckentisch
+    3300000: Help_Ofen
+    3300002: Help_Waschbecken
+    3300004: Help_Waschbeckenhebel
+    3300006: Help_Waschbeckentisch
+    4300000: CHAR_Lumberjack_Lamp
+    4300002: CHAR_Lumberjack_Axt
+    4300004: CHAR_Lumberjack_Body
+    4300006: Help_Waschbeckenhebel
+    4300008: Help_Waschbeckentisch
+    4300010: Help_Waschbecken
+    4300012: Help_Ofen
+    4300014: CHAR_Lumberjack_Axt_Attack
+    7400000: Default Take
+    7400002: Lumberjack_CleanYou
+    7400004: Lumberjack_LayYouDown
+    7400006: Lumberjack_LookAround
+    7400008: Lumberjack_OpenDoor
+    7400010: Lumberjack_TakeYou
+    7400012: Lumberjack_Walkcycle
+    7400014: Lumberjack_Walkcycle_WithLamp
+    7400016: Lumberjack_Clean
+    7400018: Lumberjack_GoToAxe
+    7400020: Lumberjack_HideLoop
+    7400022: Lumberjack_HideLoop_Axe
+    7400024: Lumberjack_SeeBear
+    7400026: Lumberjack_TakeNecklace
+    7400028: Lumberjack_Walkcycle_Necklace
+    9500000: //RootNode
+    13700000: CHAR_Lumberjack_Axt
+    13700002: CHAR_Lumberjack_Body
+    13700004: CHAR_Lumberjack_Lamp
+    13700006: CHAR_Lumberjack_Axt_Attack
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Axe_Texture_png
+    second: {fileID: 2100000, guid: 47917cf29af8c1b469b1c047fd3e6579, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Lumberjack_Texture_png
+    second: {fileID: 2100000, guid: a1ec3e9b9f32bc94ab45a7ee0bdb9631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None__Lamp_Texture_png
+    second: {fileID: 2100000, guid: ba6a27adf7add3842a74eaee0e77b98c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: Armature_Lumberjack/CONTROL
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Lumberjack_LayYouDown
+      takeName: Lumberjack_LayYouDown
+      firstFrame: 0
+      lastFrame: 281
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_LookAround
+      takeName: Lumberjack_LookAround
+      firstFrame: 0
+      lastFrame: 198
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_OpenDoor
+      takeName: Lumberjack_OpenDoor
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.23078603
+        functionName: Trigger
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_Walkcycle
+      takeName: Lumberjack_Walkcycle
+      firstFrame: -21
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_Walkcycle_WithLamp
+      takeName: Lumberjack_Walkcycle_WithLamp
+      firstFrame: -21
+      lastFrame: 66
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_Clean
+      takeName: Lumberjack_Clean
+      firstFrame: 0
+      lastFrame: 441
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.4587203
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_GoToAxe
+      takeName: Lumberjack_GoToAxe
+      firstFrame: 0
+      lastFrame: 253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.985025
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 3
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_HideLoop
+      takeName: Lumberjack_HideLoop
+      firstFrame: 0
+      lastFrame: 396
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_HideLoop_Axe
+      takeName: Lumberjack_HideLoop_Axe
+      firstFrame: 0
+      lastFrame: 161
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_SeeBear
+      takeName: Lumberjack_SeeBear
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_TakeNecklace
+      takeName: Lumberjack_TakeNecklace
+      firstFrame: 0
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 1
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Lumberjack_Walkcycle_Necklace
+      takeName: Lumberjack_Walkcycle_Necklace
+      firstFrame: -21
+      lastFrame: 137
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature_Lumberjack
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Brust/Kopf
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_L/Unterarm_L/Hand_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberarm_R/Unterarm_R/Hand_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_L/Unterschenkel_L
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R
+        weight: 1
+      - path: Armature_Lumberjack/CONTROL/Bauch/Oberschenkel_R/Unterschenkel_R
+        weight: 1
+      - path: CHAR_Lumberjack_Axt
+        weight: 1
+      - path: CHAR_Lumberjack_Body
+        weight: 1
+      - path: CHAR_Lumberjack_Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: CONTROL
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

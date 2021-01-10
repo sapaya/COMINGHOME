@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 3c0613dc0de595a43983014843fb369c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A_StartTree_BONE
+    100002: A_StartTree_Nest_MESH
+    100004: A_StartTree_Trunk_MESH
+    100006: //RootNode
+    100008: StartTree_Ast1
+    100010: StartTree_Ast2
+    100012: StartTree_Ast3
+    100014: StartTree_Stamm
+    400000: A_StartTree_BONE
+    400002: A_StartTree_Nest_MESH
+    400004: A_StartTree_Trunk_MESH
+    400006: //RootNode
+    400008: StartTree_Ast1
+    400010: StartTree_Ast2
+    400012: StartTree_Ast3
+    400014: StartTree_Stamm
+    4300000: A_StartTree_Trunk_MESH
+    4300002: A_StartTree_Nest_MESH
+    7400000: Default Take
+    7400002: StartTree_Wiggle
+    9500000: //RootNode
+    13700000: A_StartTree_Nest_MESH
+    13700002: A_StartTree_Trunk_MESH
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blatt_000__Bush07_5t_texture_png
+    second: {fileID: 2100000, guid: 0495fcac2200e9849815b4d40fdcdf47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holz_001__StartTree_Texture_png
+    second: {fileID: 2100000, guid: 013b5e8a08e457e46aa3ca17dbdfb02f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Nest01_1t_texture_png
+    second: {fileID: 2100000, guid: 59795d4b83c17db47aac853215128b7a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: StartTree_Wiggle
+      takeName: StartTree_Wiggle
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.20315978
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: A_StartTree_BONE
+        weight: 1
+      - path: A_StartTree_BONE/StartTree_Stamm
+        weight: 1
+      - path: A_StartTree_BONE/StartTree_Stamm/StartTree_Ast1
+        weight: 1
+      - path: A_StartTree_BONE/StartTree_Stamm/StartTree_Ast1/StartTree_Ast2
+        weight: 1
+      - path: A_StartTree_BONE/StartTree_Stamm/StartTree_Ast1/StartTree_Ast2/StartTree_Ast3
+        weight: 1
+      - path: A_StartTree_Nest_MESH
+        weight: 1
+      - path: A_StartTree_Trunk_MESH
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

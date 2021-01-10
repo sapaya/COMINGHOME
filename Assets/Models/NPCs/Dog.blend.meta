@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 484cb11b514e6104dab16f9e2716d8f7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackLeg_2_L
+    100002: BackLeg_2_R
+    100004: BackLeg_3_L
+    100006: BackLeg_3_R
+    100008: Body
+    100010: BONE_Dog
+    100012: Dog
+    100014: //RootNode
+    100016: FrontLeg_1_L
+    100018: FrontLeg_1_R
+    100020: FrontLeg_2_L
+    100022: FrontLeg_2_R
+    100024: IK_BackLeg_L
+    100026: IK_BackLeg_R
+    100028: IK_FrontLeg_L
+    100030: IK_FrontLeg_R
+    100032: IK_Head
+    100034: Leg_1_L
+    100036: Leg_1_R
+    100038: Master
+    100040: Neck
+    100042: Nose
+    100044: Tail
+    100046: A_Necklace_BONE
+    100048: A_Necklace_MESH
+    100050: Amulett
+    100052: Bone_001
+    100054: Bone_002
+    100056: Bone_003
+    100058: Bone_004
+    100060: Bone_005
+    100062: Bone_007
+    100064: Bone_008
+    100066: Bone_009
+    100068: Bone_010
+    100070: Bone_011
+    100072: HUT-OUTSIDE_Doghouse
+    100074: Master_0
+    400000: BackLeg_2_L
+    400002: BackLeg_2_R
+    400004: BackLeg_3_L
+    400006: BackLeg_3_R
+    400008: Body
+    400010: BONE_Dog
+    400012: Dog
+    400014: //RootNode
+    400016: FrontLeg_1_L
+    400018: FrontLeg_1_R
+    400020: FrontLeg_2_L
+    400022: FrontLeg_2_R
+    400024: IK_BackLeg_L
+    400026: IK_BackLeg_R
+    400028: IK_FrontLeg_L
+    400030: IK_FrontLeg_R
+    400032: IK_Head
+    400034: Leg_1_L
+    400036: Leg_1_R
+    400038: Master
+    400040: Neck
+    400042: Nose
+    400044: Tail
+    400046: A_Necklace_BONE
+    400048: A_Necklace_MESH
+    400050: Amulett
+    400052: Bone_001
+    400054: Bone_002
+    400056: Bone_003
+    400058: Bone_004
+    400060: Bone_005
+    400062: Bone_007
+    400064: Bone_008
+    400066: Bone_009
+    400068: Bone_010
+    400070: Bone_011
+    400072: HUT-OUTSIDE_Doghouse
+    400074: Master_0
+    2300000: HUT-OUTSIDE_Doghouse
+    3300000: HUT-OUTSIDE_Doghouse
+    4300000: Dog
+    4300002: HUT-OUTSIDE_Doghouse
+    4300004: A_Necklace_MESH
+    7400000: Default Take
+    7400002: Dog_LookAround
+    7400004: Dog_WakeUp
+    7400006: Dog_Walkcycle
+    7400008: Dog_EndLoop
+    7400010: Dog_Sleep
+    9500000: //RootNode
+    13700000: Dog
+    13700002: A_Necklace_MESH
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 62007727ede6c4946a6c9009c97e8e5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Dog_texture_png
+    second: {fileID: 2100000, guid: 6ffe782ec6ff46e4dbfb2228a825fb4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_022__HUT-OUTSIDE_Doghouse_Texture_png
+    second: {fileID: 2100000, guid: badfc9de2ff294742978fa8bad86304a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Dog_LookAround
+      takeName: Dog_LookAround
+      firstFrame: 0
+      lastFrame: 272
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Dog
+        weight: 1
+      - path: BONE_Dog/Master
+        weight: 1
+      - path: BONE_Dog/Master/Body
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L/FrontLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R/FrontLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L/BackLeg_3_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R/BackLeg_3_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Neck
+        weight: 1
+      - path: BONE_Dog/Master/Body/Tail
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head/Nose
+        weight: 1
+      - path: Dog
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dog_WakeUp
+      takeName: Dog_WakeUp
+      firstFrame: 0
+      lastFrame: 376
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Dog
+        weight: 1
+      - path: BONE_Dog/Master
+        weight: 1
+      - path: BONE_Dog/Master/Body
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L/FrontLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R/FrontLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L/BackLeg_3_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R/BackLeg_3_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Neck
+        weight: 1
+      - path: BONE_Dog/Master/Body/Tail
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head/Nose
+        weight: 1
+      - path: Dog
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dog_Walkcycle
+      takeName: Dog_Walkcycle
+      firstFrame: -4
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Dog
+        weight: 1
+      - path: BONE_Dog/Master
+        weight: 1
+      - path: BONE_Dog/Master/Body
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L/FrontLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R/FrontLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L/BackLeg_3_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R/BackLeg_3_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Neck
+        weight: 1
+      - path: BONE_Dog/Master/Body/Tail
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head/Nose
+        weight: 1
+      - path: Dog
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dog_EndLoop
+      takeName: Dog_EndLoop
+      firstFrame: 4
+      lastFrame: 133
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Dog
+        weight: 1
+      - path: BONE_Dog/Master
+        weight: 1
+      - path: BONE_Dog/Master/Body
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L/FrontLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R/FrontLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L/BackLeg_3_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R/BackLeg_3_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Neck
+        weight: 1
+      - path: BONE_Dog/Master/Body/Tail
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head/Nose
+        weight: 1
+      - path: Dog
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Dog_Sleep
+      takeName: Dog_Sleep
+      firstFrame: -1
+      lastFrame: 216
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Dog
+        weight: 1
+      - path: BONE_Dog/Master
+        weight: 1
+      - path: BONE_Dog/Master/Body
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_L/FrontLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/FrontLeg_1_R/FrontLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_L/BackLeg_2_L/BackLeg_3_L
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Leg_1_R/BackLeg_2_R/BackLeg_3_R
+        weight: 1
+      - path: BONE_Dog/Master/Body/Neck
+        weight: 1
+      - path: BONE_Dog/Master/Body/Tail
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_BackLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_L
+        weight: 1
+      - path: BONE_Dog/Master/IK_FrontLeg_R
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head
+        weight: 1
+      - path: BONE_Dog/Master/IK_Head/Nose
+        weight: 1
+      - path: Dog
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

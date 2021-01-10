@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 859c1bc75f2f3a649b489e0a711f3b55
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm1_L
+    100002: Arm1_R
+    100004: Arm2_L
+    100006: Arm2_R
+    100008: Bauch1
+    100010: Bauch2
+    100012: Bein_L
+    100014: Bein_R
+    100016: BONE_Squirrel
+    100018: IKKopf
+    100020: MASTER
+    100022: Ohr_L
+    100024: Ohr_R
+    100026: Schnauze
+    100028: Schwanz1
+    100030: Schwanz2
+    100032: Schwanz3
+    100034: SQUIRREL
+    100036: //RootNode
+    400000: Arm1_L
+    400002: Arm1_R
+    400004: Arm2_L
+    400006: Arm2_R
+    400008: Bauch1
+    400010: Bauch2
+    400012: Bein_L
+    400014: Bein_R
+    400016: BONE_Squirrel
+    400018: IKKopf
+    400020: MASTER
+    400022: Ohr_L
+    400024: Ohr_R
+    400026: Schnauze
+    400028: Schwanz1
+    400030: Schwanz2
+    400032: Schwanz3
+    400034: SQUIRREL
+    400036: //RootNode
+    4300000: SQUIRREL
+    7400000: Default Take
+    7400002: Squirrel_LookAround
+    7400004: Squirrel_Run
+    7400006: Squirrel_Surprise
+    9500000: //RootNode
+    13700000: SQUIRREL
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002__Squirrel_texture_png
+    second: {fileID: 2100000, guid: 8ffe661746a1e0640affe3b41f985fcc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Squirrel_LookAround
+      takeName: Squirrel_LookAround
+      firstFrame: 0
+      lastFrame: 287
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Squirrel
+        weight: 1
+      - path: BONE_Squirrel/MASTER
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_L/Arm2_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_R/Arm2_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Bauch2
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1/Schwanz2
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1/Schwanz2/Schwanz3
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bein_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bein_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Ohr_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Ohr_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Schnauze
+        weight: 1
+      - path: SQUIRREL
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Squirrel_Run
+      takeName: Squirrel_Run
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Squirrel
+        weight: 1
+      - path: BONE_Squirrel/MASTER
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_L/Arm2_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_R/Arm2_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Bauch2
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1/Schwanz2
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1/Schwanz2/Schwanz3
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bein_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bein_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Ohr_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Ohr_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Schnauze
+        weight: 1
+      - path: SQUIRREL
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Squirrel_Surprise
+      takeName: Squirrel_Surprise
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Squirrel
+        weight: 1
+      - path: BONE_Squirrel/MASTER
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_L/Arm2_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Arm1_R/Arm2_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Bauch2
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1/Schwanz2
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bauch1/Schwanz1/Schwanz2/Schwanz3
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bein_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/Bein_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Ohr_L
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Ohr_R
+        weight: 1
+      - path: BONE_Squirrel/MASTER/IKKopf/Schnauze
+        weight: 1
+      - path: SQUIRREL
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

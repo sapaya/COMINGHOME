@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 187b9a49d3bac0f418b5fd26e298f2de
+timeCreated: 1503153391
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: HUT-INSIDE_Carpet
+    100002: HUT-INSIDE_Chair
+    100004: HUT-INSIDE_Drinky
+    100006: HUT-INSIDE_Footmat
+    100008: HUT-INSIDE_Glass
+    100010: HUT-INSIDE_Painting
+    100012: HUT-INSIDE_Plate
+    100014: HUT-INSIDE_Table
+    100016: HUT_DoorWall
+    100018: //RootNode
+    400000: HUT-INSIDE_Carpet
+    400002: HUT-INSIDE_Chair
+    400004: HUT-INSIDE_Drinky
+    400006: HUT-INSIDE_Footmat
+    400008: HUT-INSIDE_Glass
+    400010: HUT-INSIDE_Painting
+    400012: HUT-INSIDE_Plate
+    400014: HUT-INSIDE_Table
+    400016: HUT_DoorWall
+    400018: //RootNode
+    2300000: HUT-INSIDE_Carpet
+    2300002: HUT-INSIDE_Chair
+    2300004: HUT-INSIDE_Drinky
+    2300006: HUT-INSIDE_Footmat
+    2300008: HUT-INSIDE_Glass
+    2300010: HUT-INSIDE_Painting
+    2300012: HUT-INSIDE_Plate
+    2300014: HUT-INSIDE_Table
+    2300016: HUT_DoorWall
+    3300000: HUT-INSIDE_Carpet
+    3300002: HUT-INSIDE_Chair
+    3300004: HUT-INSIDE_Drinky
+    3300006: HUT-INSIDE_Footmat
+    3300008: HUT-INSIDE_Glass
+    3300010: HUT-INSIDE_Painting
+    3300012: HUT-INSIDE_Plate
+    3300014: HUT-INSIDE_Table
+    3300016: HUT_DoorWall
+    4300000: HUT-INSIDE_Carpet
+    4300002: HUT-INSIDE_Chair
+    4300004: HUT-INSIDE_Drinky
+    4300006: HUT-INSIDE_Footmat
+    4300008: HUT-INSIDE_Glass
+    4300010: HUT-INSIDE_Painting
+    4300012: HUT-INSIDE_Plate
+    4300014: HUT-INSIDE_Table
+    4300016: HUT_DoorWall
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

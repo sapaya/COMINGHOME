@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 1082b282b06a57d41820c029f92fcbdd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A_FenceGrave
+    100002: Bone
+    100004: Bone_001
+    100006: HUT-OUTSIDE_Fence_Board02_015
+    100008: HUT-OUTSIDE_Fence_Board02_016
+    100010: HUT-OUTSIDE_Fence_Board02_017
+    100012: HUT-OUTSIDE_Fence_Board02_018
+    100014: HUT-OUTSIDE_Fence_Board02_019
+    100016: HUT-OUTSIDE_Fence_Board02_020
+    100018: HUT-OUTSIDE_Fence_Board02_021
+    100020: HUT-OUTSIDE_Fence_Board02_022
+    100022: HUT-OUTSIDE_Fence_Board03_016
+    100024: HUT-OUTSIDE_Fence_Board03_017
+    100026: HUT-OUTSIDE_Fence_Board03_018
+    100028: HUT-OUTSIDE_Fence_Board03_019
+    100030: HUT-OUTSIDE_Fence_Board03_020
+    100032: HUT-OUTSIDE_Fence_Board03_021
+    100034: HUT-OUTSIDE_Fence_Board03_022
+    100036: HUT-OUTSIDE_Fence_Board03_023
+    100038: HUT-OUTSIDE_Fence_Board04_014
+    100040: HUT-OUTSIDE_Fence_Board04_016
+    100042: HUT-OUTSIDE_Fence_Board04_017
+    100044: HUT-OUTSIDE_Fence_Board04_018
+    100046: HUT-OUTSIDE_Fence_Board04_019
+    100048: HUT-OUTSIDE_Fence_Board04_020
+    100050: HUT-OUTSIDE_Fence_Board04_021
+    100052: HUT-OUTSIDE_Fence_Board04_022
+    100054: HUT-OUTSIDE_Fence_Holder_002
+    100056: //RootNode
+    400000: A_FenceGrave
+    400002: Bone
+    400004: Bone_001
+    400006: HUT-OUTSIDE_Fence_Board02_015
+    400008: HUT-OUTSIDE_Fence_Board02_016
+    400010: HUT-OUTSIDE_Fence_Board02_017
+    400012: HUT-OUTSIDE_Fence_Board02_018
+    400014: HUT-OUTSIDE_Fence_Board02_019
+    400016: HUT-OUTSIDE_Fence_Board02_020
+    400018: HUT-OUTSIDE_Fence_Board02_021
+    400020: HUT-OUTSIDE_Fence_Board02_022
+    400022: HUT-OUTSIDE_Fence_Board03_016
+    400024: HUT-OUTSIDE_Fence_Board03_017
+    400026: HUT-OUTSIDE_Fence_Board03_018
+    400028: HUT-OUTSIDE_Fence_Board03_019
+    400030: HUT-OUTSIDE_Fence_Board03_020
+    400032: HUT-OUTSIDE_Fence_Board03_021
+    400034: HUT-OUTSIDE_Fence_Board03_022
+    400036: HUT-OUTSIDE_Fence_Board03_023
+    400038: HUT-OUTSIDE_Fence_Board04_014
+    400040: HUT-OUTSIDE_Fence_Board04_016
+    400042: HUT-OUTSIDE_Fence_Board04_017
+    400044: HUT-OUTSIDE_Fence_Board04_018
+    400046: HUT-OUTSIDE_Fence_Board04_019
+    400048: HUT-OUTSIDE_Fence_Board04_020
+    400050: HUT-OUTSIDE_Fence_Board04_021
+    400052: HUT-OUTSIDE_Fence_Board04_022
+    400054: HUT-OUTSIDE_Fence_Holder_002
+    400056: //RootNode
+    2100000: None_001__HUT-OUTSIDE_Fence_Texture_png
+    4300000: HUT-OUTSIDE_Fence_Board02_015
+    4300002: HUT-OUTSIDE_Fence_Board02_016
+    4300004: HUT-OUTSIDE_Fence_Board02_017
+    4300006: HUT-OUTSIDE_Fence_Board02_018
+    4300008: HUT-OUTSIDE_Fence_Board02_019
+    4300010: HUT-OUTSIDE_Fence_Board02_020
+    4300012: HUT-OUTSIDE_Fence_Board02_021
+    4300014: HUT-OUTSIDE_Fence_Board02_022
+    4300016: HUT-OUTSIDE_Fence_Board03_016
+    4300018: HUT-OUTSIDE_Fence_Board03_017
+    4300020: HUT-OUTSIDE_Fence_Board03_018
+    4300022: HUT-OUTSIDE_Fence_Board03_019
+    4300024: HUT-OUTSIDE_Fence_Board03_020
+    4300026: HUT-OUTSIDE_Fence_Board03_021
+    4300028: HUT-OUTSIDE_Fence_Board03_022
+    4300030: HUT-OUTSIDE_Fence_Board03_023
+    4300032: HUT-OUTSIDE_Fence_Board04_014
+    4300034: HUT-OUTSIDE_Fence_Board04_016
+    4300036: HUT-OUTSIDE_Fence_Board04_017
+    4300038: HUT-OUTSIDE_Fence_Board04_018
+    4300040: HUT-OUTSIDE_Fence_Board04_019
+    4300042: HUT-OUTSIDE_Fence_Board04_020
+    4300044: HUT-OUTSIDE_Fence_Board04_021
+    4300046: HUT-OUTSIDE_Fence_Board04_022
+    4300048: HUT-OUTSIDE_Fence_Holder_002
+    7400000: Default Take
+    7400002: FenceGrave_Fallen
+    7400004: FenceGrave_Standing
+    7400006: FenceGrave_Standing_001
+    9500000: //RootNode
+    13700000: HUT-OUTSIDE_Fence_Board02_015
+    13700002: HUT-OUTSIDE_Fence_Board02_016
+    13700004: HUT-OUTSIDE_Fence_Board02_017
+    13700006: HUT-OUTSIDE_Fence_Board02_018
+    13700008: HUT-OUTSIDE_Fence_Board02_019
+    13700010: HUT-OUTSIDE_Fence_Board02_020
+    13700012: HUT-OUTSIDE_Fence_Board02_021
+    13700014: HUT-OUTSIDE_Fence_Board02_022
+    13700016: HUT-OUTSIDE_Fence_Board03_016
+    13700018: HUT-OUTSIDE_Fence_Board03_017
+    13700020: HUT-OUTSIDE_Fence_Board03_018
+    13700022: HUT-OUTSIDE_Fence_Board03_019
+    13700024: HUT-OUTSIDE_Fence_Board03_020
+    13700026: HUT-OUTSIDE_Fence_Board03_021
+    13700028: HUT-OUTSIDE_Fence_Board03_022
+    13700030: HUT-OUTSIDE_Fence_Board03_023
+    13700032: HUT-OUTSIDE_Fence_Board04_014
+    13700034: HUT-OUTSIDE_Fence_Board04_016
+    13700036: HUT-OUTSIDE_Fence_Board04_017
+    13700038: HUT-OUTSIDE_Fence_Board04_018
+    13700040: HUT-OUTSIDE_Fence_Board04_019
+    13700042: HUT-OUTSIDE_Fence_Board04_020
+    13700044: HUT-OUTSIDE_Fence_Board04_021
+    13700046: HUT-OUTSIDE_Fence_Board04_022
+    13700048: HUT-OUTSIDE_Fence_Holder_002
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FenceGrave_Fallen
+      takeName: FenceGrave_Fallen
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FenceGrave_Standing
+      takeName: FenceGrave_Standing
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

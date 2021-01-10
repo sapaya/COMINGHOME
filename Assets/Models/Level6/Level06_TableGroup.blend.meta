@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: baa0fb23eedc7374fbd648a058d6f095
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone_001
+    100004: Bone_002
+    100006: Bone_003
+    100008: Bone_004
+    100010: Bone_005
+    100012: Bone_006
+    100014: HUT-INSIDE_Bottle01
+    100016: HUT-INSIDE_Chair_X
+    100018: HUT-INSIDE_Cup_X
+    100020: HUT-INSIDE_Fork_X
+    100022: HUT-INSIDE_Plate_X
+    100024: HUT-INSIDE_Table_X
+    100026: I_TableGroup_BONE
+    100028: //RootNode
+    400000: Bone
+    400002: Bone_001
+    400004: Bone_002
+    400006: Bone_003
+    400008: Bone_004
+    400010: Bone_005
+    400012: Bone_006
+    400014: HUT-INSIDE_Bottle01
+    400016: HUT-INSIDE_Chair_X
+    400018: HUT-INSIDE_Cup_X
+    400020: HUT-INSIDE_Fork_X
+    400022: HUT-INSIDE_Plate_X
+    400024: HUT-INSIDE_Table_X
+    400026: I_TableGroup_BONE
+    400028: //RootNode
+    2100000: Blatt_341__HUT-OUTSIDE_Bottle_Texture_png
+    2100002: Material_057__Stuhl_Texture_png
+    2100004: Material_056__Becher_Texture_png_001
+    2100006: Material_056__Gabel_Texture_png_001
+    2100008: Material_056__Teller_Texture_png
+    2100010: Material_057__Tisch_Texture_png
+    4300000: HUT-INSIDE_Bottle01
+    4300002: HUT-INSIDE_Chair_X
+    4300004: HUT-INSIDE_Cup_X
+    4300006: HUT-INSIDE_Fork_X
+    4300008: HUT-INSIDE_Plate_X
+    4300010: HUT-INSIDE_Table_X
+    7400000: Default Take
+    7400002: TableGroup_Thrown
+    9500000: //RootNode
+    13700000: HUT-INSIDE_Bottle01
+    13700002: HUT-INSIDE_Chair_X
+    13700004: HUT-INSIDE_Cup_X
+    13700006: HUT-INSIDE_Fork_X
+    13700008: HUT-INSIDE_Plate_X
+    13700010: HUT-INSIDE_Table_X
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

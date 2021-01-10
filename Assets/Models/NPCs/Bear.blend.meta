@@ -1,0 +1,1025 @@
+fileFormatVersion: 2
+guid: d229a8667f3a5c1448256d9f3f3fdf55
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm_Down_L
+    100002: Arm_Down_R
+    100004: Arm_Up_L
+    100006: Arm_Up_R
+    100008: Ass
+    100010: BackFoot_L
+    100012: BackFoot_R
+    100014: //RootNode
+    100016: Bear
+    100018: Body
+    100020: Bone_Bear
+    100022: Bone_Ear_L
+    100024: Bone_Ear_R
+    100026: BONE_Master
+    100028: FrontFoot_L
+    100030: FrontFoot_R
+    100032: Head
+    100034: IK_BackFoot_L
+    100036: IK_BackFoot_R
+    100038: IK_FrontFoot_L
+    100040: IK_FrontFoot_R
+    100042: IK_Head
+    100044: Leg_Down_L
+    100046: Leg_Down_R
+    100048: Leg_Up_L
+    100050: Leg_Up_R
+    400000: Arm_Down_L
+    400002: Arm_Down_R
+    400004: Arm_Up_L
+    400006: Arm_Up_R
+    400008: Ass
+    400010: BackFoot_L
+    400012: BackFoot_R
+    400014: //RootNode
+    400016: Bear
+    400018: Body
+    400020: Bone_Bear
+    400022: Bone_Ear_L
+    400024: Bone_Ear_R
+    400026: BONE_Master
+    400028: FrontFoot_L
+    400030: FrontFoot_R
+    400032: Head
+    400034: IK_BackFoot_L
+    400036: IK_BackFoot_R
+    400038: IK_FrontFoot_L
+    400040: IK_FrontFoot_R
+    400042: IK_Head
+    400044: Leg_Down_L
+    400046: Leg_Down_R
+    400048: Leg_Up_L
+    400050: Leg_Up_R
+    4300000: Bear
+    7400000: Default Take
+    7400002: Bear_Fishing
+    7400004: Bear_RunAway
+    7400006: Bear_WaitingForFish
+    7400008: Bear_BreakDoor
+    7400010: Bear_Freeze
+    7400012: Bear_GoToRadio
+    7400014: Bear_HitLumberjack
+    7400016: Bear_LookToLamp
+    7400018: Bear_RadioWayBack
+    7400020: Bear_RubbishLoop
+    9500000: //RootNode
+    13700000: Bear
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Bear_texture_png
+    second: {fileID: 2100000, guid: a16ed98e32d6fa043a8585f08d537f6a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Bear_Fishing
+      takeName: Bear_Fishing
+      firstFrame: 0
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.052557305
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.37677425
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_RunAway
+      takeName: Bear_RunAway
+      firstFrame: 0
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_WaitingForFish
+      takeName: Bear_WaitingForFish
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_BreakDoor
+      takeName: Bear_BreakDoor
+      firstFrame: 0
+      lastFrame: 244
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_Freeze
+      takeName: Bear_Freeze
+      firstFrame: 0
+      lastFrame: 92
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 5
+        messageOptions: 0
+      - time: 0.65391016
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      - time: 1
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 8
+        messageOptions: 0
+      - time: 1
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 6
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_GoToRadio
+      takeName: Bear_GoToRadio
+      firstFrame: 0
+      lastFrame: 226
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9467554
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      - time: 0.74408835
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 3
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_HitLumberjack
+      takeName: Bear_HitLumberjack
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_LookToLamp
+      takeName: Bear_LookToLamp
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_RadioWayBack
+      takeName: Bear_RadioWayBack
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 4
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bear_RubbishLoop
+      takeName: Bear_RubbishLoop
+      firstFrame: 0
+      lastFrame: 128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: Bone_Bear
+        weight: 1
+      - path: Bone_Bear/BONE_Master
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_L/Arm_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Body/Arm_Up_R/Arm_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_L/Leg_Down_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/Ass/Leg_Up_R/Leg_Down_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_L/BackFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_BackFoot_R/BackFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_L/FrontFoot_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_FrontFoot_R/FrontFoot_R
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_L
+        weight: 1
+      - path: Bone_Bear/BONE_Master/IK_Head/Head/Bone_Ear_R
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

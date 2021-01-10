@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: f642c1869d8616c449f4d4df6017e625
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AI_Mill_Axle_MESH
+    100002: AI_Mill_BONE
+    100004: AI_Mill_Bricks01_MESH
+    100006: AI_Mill_Bricks02_MESH
+    100008: AI_Mill_Bricks03_MESH
+    100010: AI_Mill_Bricks04_MESH
+    100012: AI_Mill_Bricks05_MESH
+    100014: AI_Mill_Bricks06_MESH
+    100016: AI_Mill_Bricks07_MESH
+    100018: AI_Mill_Bricks08_MESH
+    100020: AI_Mill_Bricks09_MESH
+    100022: AI_Mill_Bricks10_MESH
+    100024: AI_Mill_Bricks11_MESH
+    100026: AI_Mill_Bricks12_MESH
+    100028: AI_Mill_Bricks13_MESH
+    100030: AI_Mill_Bricks14_MESH
+    100032: AI_Mill_Bricks15_MESH
+    100034: AI_Mill_Bricks16_MESH
+    100036: AI_Mill_Spokes01_MESH
+    100038: AI_Mill_Spokes02_MESH
+    100040: AI_Mill_Wheel01_MESH
+    100042: AI_Mill_Wheel02_MESH
+    100044: //RootNode
+    100046: MillBone
+    400000: AI_Mill_Axle_MESH
+    400002: AI_Mill_BONE
+    400004: AI_Mill_Bricks01_MESH
+    400006: AI_Mill_Bricks02_MESH
+    400008: AI_Mill_Bricks03_MESH
+    400010: AI_Mill_Bricks04_MESH
+    400012: AI_Mill_Bricks05_MESH
+    400014: AI_Mill_Bricks06_MESH
+    400016: AI_Mill_Bricks07_MESH
+    400018: AI_Mill_Bricks08_MESH
+    400020: AI_Mill_Bricks09_MESH
+    400022: AI_Mill_Bricks10_MESH
+    400024: AI_Mill_Bricks11_MESH
+    400026: AI_Mill_Bricks12_MESH
+    400028: AI_Mill_Bricks13_MESH
+    400030: AI_Mill_Bricks14_MESH
+    400032: AI_Mill_Bricks15_MESH
+    400034: AI_Mill_Bricks16_MESH
+    400036: AI_Mill_Spokes01_MESH
+    400038: AI_Mill_Spokes02_MESH
+    400040: AI_Mill_Wheel01_MESH
+    400042: AI_Mill_Wheel02_MESH
+    400044: //RootNode
+    400046: MillBone
+    4300000: AI_Mill_Axle_MESH
+    4300002: AI_Mill_Bricks01_MESH
+    4300004: AI_Mill_Bricks02_MESH
+    4300006: AI_Mill_Bricks03_MESH
+    4300008: AI_Mill_Bricks04_MESH
+    4300010: AI_Mill_Bricks05_MESH
+    4300012: AI_Mill_Bricks06_MESH
+    4300014: AI_Mill_Bricks07_MESH
+    4300016: AI_Mill_Bricks08_MESH
+    4300018: AI_Mill_Bricks09_MESH
+    4300020: AI_Mill_Bricks10_MESH
+    4300022: AI_Mill_Bricks11_MESH
+    4300024: AI_Mill_Bricks12_MESH
+    4300026: AI_Mill_Bricks13_MESH
+    4300028: AI_Mill_Bricks14_MESH
+    4300030: AI_Mill_Bricks15_MESH
+    4300032: AI_Mill_Bricks16_MESH
+    4300034: AI_Mill_Spokes01_MESH
+    4300036: AI_Mill_Spokes02_MESH
+    4300038: AI_Mill_Wheel01_MESH
+    4300040: AI_Mill_Wheel02_MESH
+    7400000: Spin
+    7400002: SpinFast
+    9500000: //RootNode
+    13700000: AI_Mill_Axle_MESH
+    13700002: AI_Mill_Bricks01_MESH
+    13700004: AI_Mill_Bricks02_MESH
+    13700006: AI_Mill_Bricks03_MESH
+    13700008: AI_Mill_Bricks04_MESH
+    13700010: AI_Mill_Bricks05_MESH
+    13700012: AI_Mill_Bricks06_MESH
+    13700014: AI_Mill_Bricks07_MESH
+    13700016: AI_Mill_Bricks08_MESH
+    13700018: AI_Mill_Bricks09_MESH
+    13700020: AI_Mill_Bricks10_MESH
+    13700022: AI_Mill_Bricks11_MESH
+    13700024: AI_Mill_Bricks12_MESH
+    13700026: AI_Mill_Bricks13_MESH
+    13700028: AI_Mill_Bricks14_MESH
+    13700030: AI_Mill_Bricks15_MESH
+    13700032: AI_Mill_Bricks16_MESH
+    13700034: AI_Mill_Spokes01_MESH
+    13700036: AI_Mill_Spokes02_MESH
+    13700038: AI_Mill_Wheel01_MESH
+    13700040: AI_Mill_Wheel02_MESH
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_043__HUT-OUTSIDE_Mill_Axle_Texture_png
+    second: {fileID: 2100000, guid: cbc3fcfd848511a41ae317c03af60ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_043__HUT-OUTSIDE_Mill_Bricks_Texture_png
+    second: {fileID: 2100000, guid: 525657af9b126c3469424b480bbbd95b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_043__HUT-OUTSIDE_Mill_Spokes_Texture_png
+    second: {fileID: 2100000, guid: 32b148ec6a9b22a4c88adb3d1e3aa9b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_043__HUT-OUTSIDE_Mill_Wheel_Texture_png
+    second: {fileID: 2100000, guid: 1d331ee2eb656b3479366ffd9e8862bc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Spin
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 309
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

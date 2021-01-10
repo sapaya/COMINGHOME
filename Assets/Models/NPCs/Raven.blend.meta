@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: ee7293da29cb4024b87a2e81d7b6d468
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm1_L
+    100002: Arm1_R
+    100004: Arm2_L
+    100006: Arm2_R
+    100008: Bein1_L
+    100010: Bein1_R
+    100012: Bein2_L
+    100014: Bein2_R
+    100016: BONE_Raven
+    100018: Fuss1_L
+    100020: Fuss1_R
+    100022: Fuss2_L
+    100024: Fuss2_R
+    100026: Hals
+    100028: IK_Arm_L
+    100030: IK_Arm_R
+    100032: IK_Fuss_L
+    100034: IK_Fuss_R
+    100036: IK_Kopf
+    100038: Koerper
+    100040: MASTER
+    100042: //RootNode
+    100044: Raven
+    100046: Schnabel
+    100048: Schwanz
+    400000: Arm1_L
+    400002: Arm1_R
+    400004: Arm2_L
+    400006: Arm2_R
+    400008: Bein1_L
+    400010: Bein1_R
+    400012: Bein2_L
+    400014: Bein2_R
+    400016: BONE_Raven
+    400018: Fuss1_L
+    400020: Fuss1_R
+    400022: Fuss2_L
+    400024: Fuss2_R
+    400026: Hals
+    400028: IK_Arm_L
+    400030: IK_Arm_R
+    400032: IK_Fuss_L
+    400034: IK_Fuss_R
+    400036: IK_Kopf
+    400038: Koerper
+    400040: MASTER
+    400042: //RootNode
+    400044: Raven
+    400046: Schnabel
+    400048: Schwanz
+    4300000: Raven
+    7400000: Default Take
+    7400002: Raven_FlyCycle
+    7400004: Raven_HitByStick
+    7400006: Raven_Standard
+    7400008: Raven_Wind
+    9500000: //RootNode
+    13700000: Raven
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Raven_texture_png
+    second: {fileID: 2100000, guid: c8fdc683e2fe2594380f599a536f0a3a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Raven_FlyCycle
+      takeName: Raven_FlyCycle
+      firstFrame: 0
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: MoveSpeed
+        curve:
+          serializedVersion: 2
+          curve:
+          - serializedVersion: 3
+            time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.33333334
+            outWeight: 0.33333334
+          - serializedVersion: 3
+            time: 0.49583334
+            value: -0.0325
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.33333334
+            outWeight: 0.33333334
+          - serializedVersion: 3
+            time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.33333334
+            outWeight: 0.33333334
+          preInfinity: 3
+          postInfinity: 3
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Raven
+        weight: 1
+      - path: BONE_Raven/MASTER
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L/Fuss2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R/Fuss2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf/Schnabel
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L/Arm2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R/Arm2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L/Bein2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R/Bein2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Hals
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Schwanz
+        weight: 1
+      - path: Raven
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Raven_HitByStick
+      takeName: Raven_HitByStick
+      firstFrame: 0
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.62420154
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 2
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Raven
+        weight: 1
+      - path: BONE_Raven/MASTER
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L/Fuss2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R/Fuss2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf/Schnabel
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L/Arm2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R/Arm2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L/Bein2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R/Bein2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Hals
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Schwanz
+        weight: 1
+      - path: Raven
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Raven_Standard
+      takeName: Raven_Standard
+      firstFrame: 0
+      lastFrame: 335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Raven
+        weight: 1
+      - path: BONE_Raven/MASTER
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L/Fuss2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R/Fuss2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf/Schnabel
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L/Arm2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R/Arm2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L/Bein2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R/Bein2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Hals
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Schwanz
+        weight: 1
+      - path: Raven
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Raven_Wind
+      takeName: Raven_Wind
+      firstFrame: 0
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.015904572
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.98210734
+        functionName: MakeEventCall
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 1
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BONE_Raven
+        weight: 1
+      - path: BONE_Raven/MASTER
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Arm_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_L/Fuss1_L/Fuss2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Fuss_R/Fuss1_R/Fuss2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf
+        weight: 1
+      - path: BONE_Raven/MASTER/IK_Kopf/Schnabel
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_L/Arm2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Arm1_R/Arm2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_L/Bein2_L
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Bein1_R/Bein2_R
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Hals
+        weight: 1
+      - path: BONE_Raven/MASTER/Koerper/Schwanz
+        weight: 1
+      - path: Raven
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
